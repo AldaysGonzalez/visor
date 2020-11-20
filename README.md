@@ -38,8 +38,8 @@ function mifoto(num) { //cambiar la imagen
 </div>
 <div id="principal">
 <div id="visor">
-<img src='foto1.jpg' alt='1. Blanqueador Clorox.' name='fotoVisor'/>
-<div id="titulo">1. Blanqueador Clorox.</div>
+<img src='foto1.jpg' alt='1. Clorox.' name='fotoVisor'/>
+<div id="titulo">1. Clorox.</div>
 </div>
 </div>
 </body>
