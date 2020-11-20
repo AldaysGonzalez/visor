@@ -1,4 +1,3 @@
-<!DOCTYPE html PUBLIC "https://aldaysgonzalez.github.io/visor/"> 
 <html>
 <head>
 <title>Visor de Imagenes</title> 
